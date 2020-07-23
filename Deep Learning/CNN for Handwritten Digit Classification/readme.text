@@ -1,1 +1,8 @@
 
+How to Develop a CNN for MNIST Handwritten Digit Classification
+
+1. MNIST Handwritten Digit Classification Dataset
+2. Model Evaluation Methodology
+3. How to Develop a Baseline Model
+4. How to Develop an Improved Model
+5. How to Finalize the Model and Make Predictions
